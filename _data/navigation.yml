@@ -2,14 +2,14 @@
 main:
   - title: "Home"
     url: /
-  - title: "Projects"
+  - title: "Portfolio"
     url: /projects/
     children:
       - title: "Game Jam"
         url: /projects/game-jam/
       - title: "Capstone"
         url: /projects/capstone/
-  - title: "Pages"
+  - title: "Socials"
     url: /pages/
     children:
       - title: "Default Layout"
@@ -18,7 +18,7 @@ main:
         url: /pages/single/
       - title: "Splash Layout"
         url: /pages/splash/
-  - title: "Components"
+  - title: "Contact Me"
     url: /components/
  
 
