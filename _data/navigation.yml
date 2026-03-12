@@ -20,6 +20,8 @@ main:
         url: /pages/splash/
   - title: "Contact Me"
     url: /components/
+  - title: "Portfolio"
+  url: /portfolio/
  
 
 # Sidebar menu for the Projects page
