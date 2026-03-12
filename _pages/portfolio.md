@@ -1,7 +1,7 @@
 ---
-title: "Projects"
-layout: single
-permalink: /projects/
+title: "Portfolio"
+layout: default
+permalink: /portfolio/
 sidebar:
   title: "Projects"
   nav:
