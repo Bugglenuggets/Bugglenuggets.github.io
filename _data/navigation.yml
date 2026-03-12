@@ -21,7 +21,7 @@ main:
   - title: "Contact Me"
     url: /components/
   - title: "Portfolio"
-  url: /portfolio/
+    url: /portfolio/
  
 
 # Sidebar menu for the Projects page
