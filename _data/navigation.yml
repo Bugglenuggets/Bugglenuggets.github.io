@@ -22,6 +22,8 @@ main:
     url: /components/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Home"
+    url: /home/
  
 
 # Sidebar menu for the Projects page
