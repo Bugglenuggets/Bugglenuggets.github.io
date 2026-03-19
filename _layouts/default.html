@@ -9,7 +9,7 @@
     {% include head/custom.html %}
   </head>
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}" style="background-color:#111111; color:#FFFFFF; font-family:Source Code Pro;">
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}" style="background-color:#111111; color:#FFFFFF; font-family:Source Code Pro; height: 1050px;">
     {% include skip-links.html %}
     {% include masthead.html %}
 
