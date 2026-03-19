@@ -5,7 +5,7 @@ permalink: /home/
 ---
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
   <div style="flex: 1 1 250px; min-width: 250px;">
-    <h2>About Me</h2>
+    <h2 style="font-family:Source Code Pro">About Me</h2>
     <p>I am a ... </p>
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
