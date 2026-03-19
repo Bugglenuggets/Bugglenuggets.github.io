@@ -3,7 +3,7 @@ title: "home"
 layout: default
 permalink: /home/
 ---
-<div style="flex; flex-wrap:wrap; gap:2rem; align-items:flex-start";>
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start";>
   <div style="flex: 1 1 250px; min-width: 250px;">
     <h2>About Me</h2>
     <p>I am a ... </p>
