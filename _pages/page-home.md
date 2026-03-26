@@ -10,6 +10,6 @@ permalink: /home/
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
     <!--{% include figure image_path="/assets/images/placeholder-2.png" alt="Headshot of Ben McKee" %}-->
-    <img src="/assets/images/placeholder-2.png"; alt="Headshot of Ben McKee"; style="Width:; Height:;">
+    <img src="/assets/images/placeholder-2.png"; alt="Headshot of Ben McKee"; style="Width:100px; Height:100px;">
   </div>
 </div>
