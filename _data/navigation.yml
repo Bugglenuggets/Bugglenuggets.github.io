@@ -20,7 +20,7 @@ main:
      #   url: /pages/splash/
   - title: "Home"
     url: /home/
-  - title: "socials"
+  - title: "Socials"
     url: /socials/
   - title: "Contact Me"
     url: /components/
