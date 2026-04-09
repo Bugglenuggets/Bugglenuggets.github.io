@@ -1,5 +1,5 @@
 ---
-title: "socials"
+title: "Socials"
 layout: default
 permalink: /socials/
 ---
