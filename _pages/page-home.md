@@ -8,9 +8,11 @@ permalink: /
     <h2 style="font-family:Source Code Pro">About Me</h2>
     <p>I am a ... </p>
     {% include button
+    title="Download my CV"
     label="Download CV"
     class="btn--primary"
-    download=""
+    url="/assets/downloads/Ben-McKee-CV.pdf"
+    download="Ben-McKee-CV.pdf"
     %}
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
