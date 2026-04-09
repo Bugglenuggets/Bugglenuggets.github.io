@@ -19,7 +19,7 @@ main:
     #  - title: "Splash Layout"
      #   url: /pages/splash/
   - title: "Home"
-    url: /
+    url: /home
   - title: "Socials"
     url: /socials/
   - title: "Contact Me"
