@@ -61,7 +61,7 @@ footer: # Site footer
       target: "_blank"
 
     - label: "LinkedIn"
-      icon: "fab fa-aw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ben-mckee-bb17b33b0/"
       target: "_blank"
 
