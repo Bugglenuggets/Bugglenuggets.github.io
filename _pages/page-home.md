@@ -1,7 +1,7 @@
 ---
 title: "home"
 layout: default
-permalink: /home
+permalink: /home/
 ---
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
   <div style="flex: 1 1 250px; min-width: 250px;">
