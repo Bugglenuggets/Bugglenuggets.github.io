@@ -18,12 +18,15 @@ main:
     #    url: /pages/single/
     #  - title: "Splash Layout"
      #   url: /pages/splash/
+  - title: "Home"
+    url: /home/
+  - title: "socials"
+    url: /socials/
   - title: "Contact Me"
     url: /components/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Home"
-    url: /home/
+  
  
 
 # Sidebar menu for the Projects page
