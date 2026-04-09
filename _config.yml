@@ -54,26 +54,33 @@ footer: # Site footer
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
       target: "_blank"
-    - label: "Facebook" # Facebook link
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-      target: "_blank"
+    
     - label: "GitHub" # GitHub link
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/Bugglenuggets"
       target: "_blank"
-    - label: "GitLab" # GitLab link
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+
+    - label: "LinkedIn"
+      icon: "fab fa-aw fa-linkedin"
+      url: "https://www.linkedin.com/in/ben-mckee-bb17b33b0/"
       target: "_blank"
-    - label: "Bitbucket" # Bitbucket link
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/@B-McKee-Dev"
       target: "_blank"
+    
     - label: "Instagram" # Instagram link
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/bugglenuggets/?hl=en"
       target: "_blank"
+
+    - label: "Discord"
+      icon: "fat fa-fw fa-discord"
+      url: "https://www.discordapp.com/users/477513327468085273"
+      target: "_blank"
+
+    
   since: "2026" # Year shown in the footer
 
 
