@@ -59,6 +59,7 @@ footer: # Site footer
       icon: "fa-brands fa-square-linkedin"
       url: "https://www.linkedin.com/in/ben-mckee-bb17b33b0/"
       target: "_blank"
+      color: "#0a66c2"
 
     - label: ""
       icon: "fa-brands fa-youtube"
