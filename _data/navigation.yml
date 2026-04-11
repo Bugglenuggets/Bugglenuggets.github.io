@@ -20,12 +20,13 @@ main:
      #   url: /pages/splash/
   - title: "Home"
     url: /
-  - title: "Socials"
-    url: /socials/
-  - title: "Contact Me"
-    url: /components/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Socials"
+    url: /socials/
+  - title: "Contact Info"
+    url: /components/
+  
   
  
 
