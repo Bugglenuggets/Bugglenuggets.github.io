@@ -65,7 +65,7 @@ footer: # Site footer
       url: "https://www.youtube.com/@B-McKee-Dev"
       target: "_blank"
     
-    - label: " # Instagram link
+    - label: "" # Instagram link
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/bugglenuggets/?hl=en"
       target: "_blank"
