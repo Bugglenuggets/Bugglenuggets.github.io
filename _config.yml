@@ -50,27 +50,27 @@ author:
 # Site Footer
 footer: # Site footer
   links: # Footer links
-    - title: # GitHub link
+    - title: "" # GitHub link
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Bugglenuggets"
       target: "_blank"
 
-    - label: "LinkedIn"
+    - label: ""
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ben-mckee-bb17b33b0/"
       target: "_blank"
 
-    - label: "Youtube"
+    - label: ""
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/@B-McKee-Dev"
       target: "_blank"
     
-    - label: "Instagram" # Instagram link
+    - label: " # Instagram link
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/bugglenuggets/?hl=en"
       target: "_blank"
 
-    - label: "Discord"
+    - label: ""
       icon: "fat fa-fw fa-discord"
       url: "https://www.discordapp.com/users/477513327468085273"
       target: "_blank"
