@@ -24,8 +24,8 @@
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    font-family: Source Code Pro;
     align-items: center;
+    font-family: Source Code Pro;
 
     @include breakpoint($x-large) {
       max-width: 100%;
