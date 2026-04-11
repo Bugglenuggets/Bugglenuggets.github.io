@@ -69,6 +69,7 @@ footer: # Site footer
       icon: "fa-brands fa-instagram"
       url: "https://www.instagram.com/bugglenuggets/?hl=en"
       target: "_blank"
+      color: "#ffffff"
 
     - label: ""
       icon: "fa-brands fa-discord"
