@@ -71,7 +71,7 @@ footer: # Site footer
       target: "_blank"
 
     - label: ""
-      icon: "fat fa-fw fa-discord"
+      icon: "fa-brands fa-discord"
       url: "https://www.discordapp.com/users/477513327468085273"
       target: "_blank"
 
