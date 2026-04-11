@@ -61,7 +61,7 @@ footer: # Site footer
       target: "_blank"
 
     - label: ""
-      icon: "fab fa-fw fa-youtube-square"
+      icon: "fa-brands fa-youtube"
       url: "https://www.youtube.com/@B-McKee-Dev"
       target: "_blank"
     
