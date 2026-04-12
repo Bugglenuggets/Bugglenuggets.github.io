@@ -1,7 +1,7 @@
 ---
-title: "Contact me"
+title: "Contact Info"
 layout: default
-permalink: /components/
+permalink: /contact-info/
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/placeholder.png
