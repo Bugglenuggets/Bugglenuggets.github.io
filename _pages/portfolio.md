@@ -3,23 +3,23 @@ title: portfolio
 layout: default
 permalink: /portfolio/
 gallery_boardgame:
-  - url: 
-    image_path:
-    alt:
-    title:
-    caption:
+  - url: /assets/images/Boardgame_Playtest1.png
+    image_path: /assets/images/Boardgame_Playtest1.png
+    alt: "Playtest Photo 1"
+    title: "Divinity"
+    caption: "Divinity being playtested"
     
-  - url:
-    image_path:
-    alt:
-    title:
-    caption:
+  - url: /assets/images/Boardgame_Playtest2.png
+    image_path: /assets/images/Boardgame_Playtest2.png
+    alt: "Playtest Photo 2"
+    title: "Divinity"
+    caption: "Divinity being playtested"
     
-  - url:
-    image_path:
-    alt:
-    title:
-    caption:
+  - url: /assets/images/Boardgame_Playtest3.png
+    image_path: /assets/images/Boardgame_Playtest3.png
+    alt: "Playtest Photo 1"
+    title: "Divinity"
+    caption: "Divinity being playtested"
 ---
 <div style="display: flex; flex-wrap: wrap; gap:2rem; align-items: flex-start;">
   <div style="flex: 1 1 250px; min-width: 250px;">
