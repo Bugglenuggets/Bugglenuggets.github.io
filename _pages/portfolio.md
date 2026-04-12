@@ -3,6 +3,18 @@ title: portfolio
 layout: default
 permalink: /portfolio/
 gallery_boardgame:
+  - url: 
+    image_path:
+    alt:
+    title:
+    caption:
+    
+  - url:
+    image_path:
+    alt:
+    title:
+    caption:
+    
   - url:
     image_path:
     alt:
