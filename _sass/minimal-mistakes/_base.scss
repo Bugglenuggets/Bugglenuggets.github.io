@@ -337,6 +337,12 @@ figcaption {
   }
 }
 
+.gallery--custom {
+   @include breakpoint($small) {
+      grid-template: 
+         "a b", 1fr
+         "c c", 1fr;
+
 /* Skills */
 .skills {
   display: grid;
