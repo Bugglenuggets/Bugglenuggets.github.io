@@ -27,6 +27,6 @@ gallery_boardgame:
       <p>This section is about Board Games</p>
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
-    {% include gallery id="gallery_boardgame" layout="third" thumb_height="180px" %}
+    {% include gallery id="gallery_boardgame" layout="half" thumb_height="180px" %}
   </div>
 </div>
