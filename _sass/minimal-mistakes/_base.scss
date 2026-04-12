@@ -337,14 +337,6 @@ figcaption {
   }
 }
 
-.gallery--custom {
-   @include breakpoint($small) {
-      grid-template: 
-         "a b" 1fr
-         "c c" 2fr / 1fr 1fr;
-  }
-}
-
 /* Skills */
 .skills {
   display: grid;
