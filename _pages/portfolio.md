@@ -3,20 +3,20 @@ title: portfolio
 layout: default
 permalink: /portfolio/
 gallery_boardgame:
+  - url: /assets/images/Boardgame_Setup.png
+    image_path: /assets/images/Boardgame_Setup.png
+    alt: "Playtest Photo 1"
+    title: "Divinity"
+    caption: "Divinity being playtested"
+    
   - url: /assets/images/Boardgame_Playtest1.png
     image_path: /assets/images/Boardgame_Playtest1.png
-    alt: "Playtest Photo 1"
+    alt: "Playtest Photo 2"
     title: "Divinity"
     caption: "Divinity being playtested"
     
   - url: /assets/images/Boardgame_Playtest2.png
     image_path: /assets/images/Boardgame_Playtest2.png
-    alt: "Playtest Photo 2"
-    title: "Divinity"
-    caption: "Divinity being playtested"
-    
-  - url: /assets/images/Boardgame_Playtest3.png
-    image_path: /assets/images/Boardgame_Playtest3.png
     alt: "Playtest Photo 1"
     title: "Divinity"
     caption: "Divinity being playtested"
