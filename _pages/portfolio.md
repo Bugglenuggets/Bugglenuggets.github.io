@@ -23,8 +23,8 @@ gallery_boardgame:
 ---
 <div style="display: flex; flex-wrap: nowrap; gap:2rem; align-items: flex-start;">
   <div style="flex: 1 1 250px; min-width: 250px;">
-    <h2>Board Games</h2>
-      <p>This section is about Board Games</p>
+    <h2 style="width:500px; margin-left:400px;">Board Games</h2>
+      <p style="width:500px; margin-left:400px;">This section is about Board Games</p>
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
     {% include gallery id="gallery_boardgame" layout="half" thumb_height="355px" %}
