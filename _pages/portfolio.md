@@ -21,9 +21,9 @@ gallery_boardgame:
     title: "Divinity"
     caption: "Divinity being playtested"
 ---
-<div style="display: flex; flex-wrap: wrap; gap:2rem; align-items: flex-start;">
+<div style="display: flex; flex-wrap: nowrap; gap:2rem; align-items: flex-start;">
   <div style="flex: 1 1 250px; min-width: 250px;">
-    <h2>Board Games<h2>
+    <h2>Board Games</h2>
       <p>This section is about Board Games</p>
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
