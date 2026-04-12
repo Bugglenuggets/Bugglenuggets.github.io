@@ -5,8 +5,8 @@ permalink: /
 ---
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
   <div style="flex: 1 1 250px; min-width: 250px;">
-    <h2 class="source-code-pro" style="width:600px">About Me</h2>
-    <p style="width:600px">I am a ... </p>
+    <h2 class="source-code-pro" style="width:600px; margin-left: 50px">About Me</h2>
+    <p style="width:600px; margin-left: 50px">I am a ... </p>
     {% include button
     title="Download my CV"
     label="Download CV"
