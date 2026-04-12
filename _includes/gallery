@@ -18,6 +18,7 @@
 
 {% assign gallery_id = include.id | default: 'gallery' %}
 {% assign thumb_height = include.thumb_height %}
+{% assign thumb_width = include.thumb_width %}
 
 <div class="gallery gallery--{{ gallery_layout }} {% if thumb_height %}gallery--thumbs{% endif %} {{ include.class }}"{% if thumb_height %} style="--gallery-thumb-height: {{ thumb_height }};"{% endif %}>
   {% for img in gallery %}
