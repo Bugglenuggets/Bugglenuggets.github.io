@@ -9,8 +9,6 @@ gallery_boardgame:
     title:
     caption:
 ---
-# A portfolio page.
-
 <div style="display: flex; flex-wrap: wrap; gap:2rem; align-items: flex-start;">
   <div style="flex: 1 1 250px; min-width: 250px;">
     <h2>Board Games<h2>
