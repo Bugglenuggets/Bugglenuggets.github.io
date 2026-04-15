@@ -7,7 +7,7 @@ permalink: /socials/
 <div display="flex" style="flex: 1 1 250px;" gap="2em">
   <div>
     <a href="https://www.linkedin.com/in/ben-mckee-bb17b33b0/">
-      <i class="fa-brands-fa-square-linkedin" style="fill: #0a66c2; float:left; height: 90px; width:90px; float: left;"> </i>
+      <i class="fa-brands-fa-square-linkedin"> </i>
       LinkedIn
     </a>
   </div>
