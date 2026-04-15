@@ -301,17 +301,17 @@ figcaption {
 
 .gallery__item img {
   display: block;
-  width: 320px;
-  height: 320px;
+  width: 463.1675px;
+  height: 463.1675px;
 }
 
 .gallery--thumbs .gallery__item {
-  height: 320px;
-  width: 320px;
+  height: 463.1675px;
+  width: 463.1675px;
 }
 
 .gallery--thumbs .gallery__item img {
-  height: 320px;
+  height: 463.1675px;
   object-fit: cover;
 }
 
@@ -340,8 +340,8 @@ figcaption {
 
 .gallery--custom {
    @include breakpoint($small) {
-     grid-template-columns: repeat(2, 320px);
-     grid-template-rows: repeat(2, 320px); 
+     grid-template-columns: repeat(2, 463.1675px);
+     grid-template-rows: repeat(2, 463.1675px); 
   }
 }
 
