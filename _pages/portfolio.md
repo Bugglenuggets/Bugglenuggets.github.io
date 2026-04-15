@@ -46,13 +46,13 @@ gallery_boardgame:
     <h2 style="width:500px; margin-left:278px; margin-top: 20px;">3D Level</h2>
       <p style="width:900px; margin-left:278px;">This section is about my 3D Level</p>
   </div>
-  <div style="flex: 1 1 250px; min-width: 250px; max-width: 640px; margin-right: 563.665px;">
+  <div style="flex: 1 1 250px; min-width: 250px; max-width: 926.34px; margin-right: 563.665px;">
     {% include video id="dQw4w9WgXcQ" provider="youtube" %}
   </div>
 </div>
 
 <div style="display: flex; flex-wrap: nowrap; align-items: flex-start;">
- <div style="flex: 1 1 250px; min-width: 250px; max-width: 640px; margin-left: 278px;">
+ <div style="flex: 1 1 250px; min-width: 250px; max-width: 926.34px; margin-left: 278px;">
     {% include video id="dQw4w9WgXcQ" provider="youtube" %}
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
