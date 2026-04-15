@@ -481,7 +481,7 @@ a.reversefootnote {
   padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
-  max-width: 926.34px;
+  max-width: 100%;
   
 
   iframe,
@@ -490,7 +490,6 @@ a.reversefootnote {
     position: absolute;
     top: 0;
     inset-inline-start: 0;
-    width: 926.34px;
     height: 100%;
   }
 }
