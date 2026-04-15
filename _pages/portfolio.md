@@ -51,3 +51,13 @@ gallery_boardgame:
   </div>
 </div>
 
+<div style="display: flex; flex-wrap: nowrap; align-items: flex-start;">
+  <div style="flex: 1 1 250px; min-width: 250px;">
+    <h2 style="width:500px; margin-left: 310px; margin-top: 20px;">Digital Art</h2>
+      <p style="width:900px; margin-left: 310px;">This section is about Digital Art</p>
+  </div>
+<div style="flex: 1 1 250px; min-width: 250px; max-width: 640px; margin-right: 0px; margin-left: 278px;">
+    {% include gallery id="gallery_boardgame" layout="custom" thumb_height="355px" %}
+  </div>
+</div>
+
