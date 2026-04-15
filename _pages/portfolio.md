@@ -29,4 +29,11 @@ gallery_boardgame:
   <div style="flex: 1 1 250px; min-width: 250px;">
     {% include gallery id="gallery_boardgame" layout="half" thumb_height="355px" %}
   </div>
+  <div style="flex: 1 1 250px; min-width: 250px;">
+    {% include gallery id="gallery_boardgame" layout="half" thumb_height="355px" %}
+  </div>
+  <div style="flex: 1 1 250px; min-width: 250px;">
+    <h2 style="width:500px; margin-left:400px;">Digital Art</h2>
+      <p style="width:500px; margin-left:400px;">This section is about Digital Art</p>
+  </div>
 </div>
