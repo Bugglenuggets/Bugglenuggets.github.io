@@ -52,7 +52,7 @@ gallery_boardgame:
 </div>
 
 <div style="display: flex; flex-wrap: nowrap; align-items: flex-start;">
- <div style="flex: 1 1 250px; min-width: 250px; max-width: 640px; margin-left: 278pxpx;">
+ <div style="flex: 1 1 250px; min-width: 250px; max-width: 640px; margin-left: 278px;">
     {% include video id="dQw4w9WgXcQ" provider="youtube" %}
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
