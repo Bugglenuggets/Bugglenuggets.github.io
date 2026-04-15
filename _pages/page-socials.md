@@ -5,7 +5,7 @@ permalink: /socials/
 ---
 <h2 class="source-code-pro" style="text-align: center; margin-top: 50px;">Follow my socials for more information and updates regarding my projects!</h2>
 <div display="flex" style="flex: 1 1 250px;" gap="2em">
-  <div>
+  <div style="flex: 1 1 250px;">
     <a href="https://www.linkedin.com/in/ben-mckee-bb17b33b0/">
       <svg style="height:90px; width:90px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34">
       <path d="M34 2.5v29a2.5 2.5 0 0 1-2.5 2.5h-29A2.5 2.5 0 0 1 0 31.5v-29A2.5 2.5 0 0 1 2.5 0h29A2.5 2.5 0 0 1 34 2.5z" style="fill: white"></path>
