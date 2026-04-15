@@ -306,8 +306,8 @@ figcaption {
 }
 
 .gallery--thumbs .gallery__item {
-  height: var(--gallery-thumb-height);
-  width: var(--gallery-thumb-width);
+  height: 320px;
+  width: 320px;
 }
 
 .gallery--thumbs .gallery__item img {
