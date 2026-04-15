@@ -23,7 +23,7 @@ gallery_boardgame:
 ---
 <div style="display: flex; flex-wrap: nowrap; align-items: flex-start;">
   <div style="flex: 1 1 250px; min-width: 250px;">
-    <h2 class="source-code-pro;" style="width:500px; margin-left:278px;">Board Games</h2>
+    <h2 class="source-code-pro" style="width:500px; margin-left:278px;">Board Games</h2>
       <p style="width:900px; margin-left:278px;">This section is about Board Games</p>
   </div>
   <div style="flex: 1 1 250px; min-width: 250px; max-width: 640px; margin-right: 563.665px;">
@@ -36,14 +36,14 @@ gallery_boardgame:
     {% include gallery id="gallery_boardgame" layout="custom" thumb_height="355px" %}
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
-    <h2 class="source-code-pro;" style="width:500px; margin-left: 310px; margin-top: 20px;">Digital Art</h2>
+    <h2 class="source-code-pro" style="width:500px; margin-left: 310px; margin-top: 20px;">Digital Art</h2>
       <p style="width:900px; margin-left: 310px;">This section is about Digital Art</p>
   </div>
 </div>
 
 <div style="display: flex; flex-wrap: nowrap; align-items: flex-start;">
   <div style="flex: 1 1 250px; min-width: 250px;">
-    <h2 class="source-code-pro;" style="width:500px; margin-left:278px; margin-top: 20px;">3D Level</h2>
+    <h2 class="source-code-pro" style="width:500px; margin-left:278px; margin-top: 20px;">3D Level</h2>
       <p style="width:900px; margin-left:278px;">This section is about my 3D Level</p>
   </div>
   <div style="flex: 1 1 250px; min-width: 250px; max-width: 926.34px; margin-right: 278px;">
@@ -56,7 +56,7 @@ gallery_boardgame:
     {% include video id="dQw4w9WgXcQ" provider="youtube" %}
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
-    <h2 class="source-code-pro;" style="width:500px; margin-left: 20px; margin-top: 20px;">Digital Art</h2>
+    <h2 class="source-code-pro" style="width:500px; margin-left: 20px; margin-top: 20px;">Digital Art</h2>
       <p style="width:900px; margin-left: 20px;">This section is about Digital Art</p>
   </div>
 </div>
