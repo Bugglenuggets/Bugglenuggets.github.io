@@ -27,13 +27,13 @@ gallery_boardgame:
       <p style="width:500px; margin-left:400px;">This section is about Board Games</p>
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
-    {% include gallery id="gallery_boardgame" layout="half" thumb_height="355px" %}
+    {% include gallery id="gallery_boardgame" layout="custom" thumb_height="355px" %}
   </div>
 </div>
 
 <div style="display: flex; flex-wrap: nowrap; align-items: flex-start;">
 <div style="flex: 1 1 250px; min-width: 250px; margin-right: 0px;">
-    {% include gallery id="gallery_boardgame" layout="half" thumb_height="355px" %}
+    {% include gallery id="gallery_boardgame" layout="custom" thumb_height="355px" %}
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
     <h2 style="width:500px; margin-right:400px;">Digital Art</h2>
