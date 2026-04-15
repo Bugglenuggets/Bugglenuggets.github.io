@@ -56,8 +56,8 @@ gallery_boardgame:
     {% include video id="dQw4w9WgXcQ" provider="youtube" %}
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
-    <h2 class="source-code-pro" style="width:500px; margin-left: 20px; margin-top: 20px;">Digital Art</h2>
-      <p style="width:900px; margin-left: 20px;">This section is about Digital Art</p>
+    <h2 class="source-code-pro" style="width:500px; margin-left: 20px; margin-top: 20px;">2D Demo</h2>
+      <p style="width:900px; margin-left: 20px;">This section is about my 2D Demo</p>
   </div>
 </div>
 
