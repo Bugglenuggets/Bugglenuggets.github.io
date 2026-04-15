@@ -338,6 +338,13 @@ figcaption {
   }
 }
 
+.gallery--custom {
+   @include breakpoint($small) {
+     grid-template-columns: repeat(2, 320px);
+     grid-template-rows: repeat(2, 320px;) 
+  }
+}
+
 /* Skills */
 .skills {
   display: grid;
