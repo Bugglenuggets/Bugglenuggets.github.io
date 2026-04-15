@@ -47,7 +47,7 @@ gallery_boardgame:
       <p style="width:500px; margin-left:400px;">This section is about my 3D Level</p>
   </div>
   <div style="flex: 1 1 250px; min-width: 250px; max-width: 640px; margin-right: 563.665px;">
-    {% include gallery id="gallery_boardgame" layout="custom" thumb_height="355px" %}
+    {% include video id="dQw4w9WgXcQ" provider="youtube" %}
   </div>
 </div>
 
