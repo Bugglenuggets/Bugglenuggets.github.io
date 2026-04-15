@@ -32,7 +32,7 @@ gallery_boardgame:
 </div>
 
 <div style="display: flex; flex-wrap: nowrap; align-items: flex-start;">
-<div style="flex: 1 1 250px; min-width: 250px; max-width: 640px; margin-right: 0px; margin-left: 563.665px;">
+<div style="flex: 1 1 250px; min-width: 250px; max-width: 640px; margin-right: 0px; margin-left: 278px;">
     {% include gallery id="gallery_boardgame" layout="custom" thumb_height="355px" %}
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
