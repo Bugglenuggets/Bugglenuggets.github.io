@@ -80,7 +80,7 @@
       white-space: nowrap;
     }
      a:hover {
-        class: {{ link.hover-icon }}
+        class: "{{ link.hover-icon }}"
      }
   }
 }
