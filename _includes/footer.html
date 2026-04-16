@@ -5,8 +5,8 @@
   <ul class="social-icons" style="text-align: left;">
     {% for link in site.footer.links %}
       {% if link.label and link.url %}
-        <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"{% if link.target %} target="{{ link.target }}"{% endif %}><i class="{{ link.icon | default: 'fas fa-link' }}" style="color:{{ link.color }}" aria-hidden="true"></i> {{ link.label | escape_once | strip }}</a></li>
-        <li><a:hover href="{{ link.url }}" rel="nofollow noopener noreferrer"{% if link.target %} target="{{ link.target }}"{% endif %}><i class="{{ link.hover-icon | default: 'fas fa-link' }}" style="color:{{ link.color }}" aria-hidden="true"></i> {{ link.label | escape_once | strip }}</a></li>
+        <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"{% if link.target %} target="{{ link.target }}"{% endif %}><i class="{{ link.icon | default: 'fas fa-link' }}" style="color:{{ link.color }}" aria-hidden="true"></i> {{ link.label | escape_once | strip }}</a>
+        <a:hover href="{{ link.url }}" rel="nofollow noopener noreferrer"{% if link.target %} target="{{ link.target }}"{% endif %}><i class="{{ link.hover-icon | default: 'fas fa-link' }}" style="color:{{ link.color }}" aria-hidden="true"></i> {{ link.label | escape_once | strip }}</a></li>
       {% endif %}
     {% endfor %}
   </ul>
