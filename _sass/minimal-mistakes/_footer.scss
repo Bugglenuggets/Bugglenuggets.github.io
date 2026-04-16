@@ -79,5 +79,8 @@
     a {
       white-space: nowrap;
     }
+     a:hover {
+        class: link.hover-icon;
+     }
   }
 }
