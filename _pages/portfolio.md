@@ -44,7 +44,7 @@ gallery_boardgame:
 <div style="display: flex; flex-wrap: nowrap; align-items: flex-start;">
   <div style="flex: 1 1 250px; min-width: 250px;">
     <h2 class="source-code-pro" style="width:500px; margin-left:278px; margin-top: 20px;">3D Level</h2>
-      <p style="width:900px; margin-left:278px;">I created a 3D level that included almost exclusively 3D models I made myself using Probuilder. This included multiple buildings, cars and other smaller objects all coming together to create a small city block.</p>
+      <p style="width:900px; margin-left:278px;">This was a 3D level that included almost exclusively 3D models I made myself using Probuilder. This included multiple buildings, cars and other smaller objects all coming together to create a small city block.</p>
   </div>
   <div style="flex: 1 1 250px; min-width: 250px; max-width: 926.34px; margin-right: 278px;">
     {% include video id="dQw4w9WgXcQ" provider="youtube" %}
@@ -57,7 +57,7 @@ gallery_boardgame:
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
     <h2 class="source-code-pro" style="width:500px; margin-left: 20px; margin-top: 20px;">2D Demo</h2>
-      <p style="width:900px; margin-left: 20px;">I created a 2D demo that centered around a Wizard fighting against waves of Goblins. Everything in the game was created by me, from the sprites and level to the UI and core mechanics. The game featured a weapon wheel that allowed the player to switch between the spells they use. The game even had a custom shader and VFX. The goal of the game was to fight against waves of Goblins and survive for 10 minutes, after which the credits roll.</p>
+      <p style="width:900px; margin-left: 20px;">This was a 2D demo that centered around a Wizard fighting against waves of Goblins. Everything in the game was created by me, from the sprites and level to the UI and core mechanics. The game featured a weapon wheel that allowed the player to switch between the spells they use. The game even had a custom shader and VFX. The goal of the game was to fight against waves of Goblins and survive for 10 minutes, after which the credits roll.</p>
   </div>
 </div>
 
