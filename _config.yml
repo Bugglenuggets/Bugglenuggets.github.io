@@ -52,6 +52,7 @@ footer: # Site footer
   links: # Footer links
     - label: "" # GitHub link
       icon: "fab fa-fw fa-github"
+      hover-icon: "fa-brands fa-github fa-bounce"
       url: "https://github.com/Bugglenuggets"
       target: "_blank"
 
