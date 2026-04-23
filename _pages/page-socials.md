@@ -4,8 +4,8 @@ layout: default
 permalink: /socials/
 ---
 <h2 class="source-code-pro" style="text-align: center; margin-top: 50px;">Follow my socials for more information and updates regarding my projects!</h2>
-<div display="flex" style="flex: 1 1 250px; flex-wrap: nowrap;" gap="2em">
-  <div display="flex" style="flex: 1 1 250px;">
+<div style="display: flex; flex: 1 1 250px; flex-wrap: nowrap;" gap="2em">
+  <div style="display: flex; flex: 1 1 250px;">
   <div style="flex: 1 1 250px;">
     <a target="_blank" href="https://www.linkedin.com/in/ben-mckee-bb17b33b0/" style="display: flex; align-items: center; margin-left: 612px; margin-top: 175px; font-size: 28px;">
       <svg style="height:100px; width:100px; margin-right: 20px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34">
@@ -23,7 +23,7 @@ permalink: /socials/
     </svg>Discord</a>
   </div>
   </div>
-  <div display="flex" style="flex: 1 1 250px;">
+  <div style="display: flex; flex: 1 1 250px;">
   <div style="flex: 1 1 250px;">
     <a target="_blank" href="https://github.com/Bugglenuggets">Github</a>
   </div>
