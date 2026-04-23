@@ -23,7 +23,7 @@ permalink: /socials/
     </svg>Discord</a>
   </div>
   </div>
-  <div style="display: flex; flex: 1 1 250px;">
+  <div style="display: flex; flex: 1 1 250px; flex-wrap: wrap;">
   <div style="flex: 1 1 250px;">
     <a target="_blank" href="https://github.com/Bugglenuggets">Github</a>
   </div>
