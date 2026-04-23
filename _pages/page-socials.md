@@ -31,7 +31,9 @@ permalink: /socials/
   </div>
     <div style="flex: 1 1 250px;">
       <a href="https://www.youtube.com/@B-McKee-Dev" style="display: flex; align-items: center; margin-top: 150px; font-size: 28px;">
-        <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" fill="#ff0000"/></svg>Youtube</a>
+       <a href="javascript:void(0)" class="niftybutton-youtube" aria-label="youtube button" style="display: inline-flex; align-items: center; justify-content: center; width: 78px; height: 78px; background: rgb(255, 0, 0); border-radius: 50%; color: rgb(255, 255, 255); transition: 0.3s; opacity: 1; padding: 12px;"><svg class="niftybutton-youtube" data-donate="true" data-tag="you" data-name="YouTube" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet" style="display: block; fill: rgb(255, 255, 255); width: 78px; height: 78px; color: rgb(255, 255, 255);" role="img" aria-label="youtube"><title>YouTube social icon</title>
+    <path d="M422.6 193.6c-5.3-45.3-23.3-51.6-59-54 -50.8-3.5-164.3-3.5-215.1 0 -35.7 2.4-53.7 8.7-59 54 -4 33.6-4 91.1 0 124.8 5.3 45.3 23.3 51.6 59 54 50.9 3.5 164.3 3.5 215.1 0 35.7-2.4 53.7-8.7 59-54C426.6 284.8 426.6 227.3 422.6 193.6zM222.2 303.4v-94.6l90.7 47.3L222.2 303.4z" fill="#ffffff" style="fill: rgb(255, 255, 255);"></path>
+</svg></a>Youtube</a>
   </div>
 </div>
 
