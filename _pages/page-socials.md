@@ -25,7 +25,7 @@ permalink: /socials/
   </div>
   <div style="display: flex; flex: 1 1 250px; flex-wrap: wrap;">
   <div style="flex: 1 1 250px;">
-    <a target="_blank" href="https://github.com/Bugglenuggets">Github</a>
+    <a target="_blank" href="https://github.com/Bugglenuggets" style="margin-top: 200px;">Github</a>
   </div>
   </div>
 </div>
