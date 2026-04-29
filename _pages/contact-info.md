@@ -18,6 +18,7 @@ permalink: /contact-info/
     label="Download CV"
     class="btn--primary"
     url="/assets/downloads/Ben-McKee-CV.pdf"
+    style="margin-left: 22px; margin-top: 20px;"
     download="Ben-McKee-CV.pdf"
     %}
   </div>
