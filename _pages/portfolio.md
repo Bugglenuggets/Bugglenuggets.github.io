@@ -31,7 +31,7 @@ gallery_sprites:
     image_path: /assets/images/Weapon_Wheel.png
     title: "Weapon Wheel"
     caption: "The UI for a weapon wheel I created from my 2D game demo."
-
+    
   - url: /assets/images/Feral_Syringe_Concept.png
     image_path: /assets/images/Feral_Syringe_Concept.png
     title: "Syringe Concept"
