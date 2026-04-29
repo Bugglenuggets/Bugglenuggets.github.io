@@ -14,7 +14,7 @@ permalink: /contact-info/
     download="Ben-McKee-CV.pdf"
     %}
   </div>
-  <div style="flex: 1 1 250px">
+  <div style="flex: 1 1 250px" class="source-code-pro">
     <h1>For commissions, collaborations and work, please contact me.</h1>
     <a>Email</a>
     <br>
