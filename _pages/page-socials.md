@@ -31,7 +31,7 @@ permalink: /socials/
   </div>
     <div style="flex: 1 1 250px;">
       <a href="https://www.youtube.com/@B-McKee-Dev" style="display: flex; align-items: center; margin-top: 150px; font-size: 28px;">
-       <svg class="niftybutton-youtube" data-donate="true" data-tag="you" data-name="YouTube" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet" style="display: block; fill: rgb(255, 255, 255); width: 78px; height: 78px; color: rgb(255, 255, 255);" role="img" aria-label="youtube"><title>YouTube social icon</title>
+       <svg class="niftybutton-youtube" data-donate="true" data-tag="you" data-name="YouTube" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet" style="display: block; fill: rgb(255, 255, 255); width: 78px; height: 78px; color: rgb(255, 255, 255);" role="img" aria-label="youtube">
     <path d="M422.6 193.6c-5.3-45.3-23.3-51.6-59-54 -50.8-3.5-164.3-3.5-215.1 0 -35.7 2.4-53.7 8.7-59 54 -4 33.6-4 91.1 0 124.8 5.3 45.3 23.3 51.6 59 54 50.9 3.5 164.3 3.5 215.1 0 35.7-2.4 53.7-8.7 59-54C426.6 284.8 426.6 227.3 422.6 193.6zM222.2 303.4v-94.6l90.7 47.3L222.2 303.4z" fill="#ffffff" style="fill: rgb(255, 255, 255);"></path>
 </svg>Youtube</a>
   </div>
