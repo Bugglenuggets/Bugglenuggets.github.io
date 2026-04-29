@@ -35,7 +35,7 @@ gallery_sprites:
   - url: /assets/images/Feral_Syringe_Concept.png
     image_path: /assets/images/Feral_Syringe_Concept.png
     title: "Syringe Concept"
-    caption: "Concept art I made of a syringe that was used in the game "Feral"."
+    caption: "Concept art I made of a syringe that was used in the game \"Feral\"."
 
   - url: /assets/images/Green_Goblin.png
     image_path: /assets/images/Green_Goblin.png
