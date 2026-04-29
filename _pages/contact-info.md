@@ -4,7 +4,7 @@ layout: default
 permalink: /contact-info/
 ---
 <div style="display: flex; flex-wrap: nowrap; gap: 2rem; align-items: flex-start;">
-  <div style="flex: 1 1 250px">
+  <div style="flex: 1 1 250px; margin-top: 100px;">
     {% include figure image_path="/assets/images/BedRoomPixelArt.png" alt="Photo of Ben McKee programming" style="width:900px; height:900px" %}
     {% include button
     title="Download my CV"
