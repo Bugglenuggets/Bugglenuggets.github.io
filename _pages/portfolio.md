@@ -31,7 +31,7 @@ gallery_boardgame:
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: nowrap; align-items: flex-start;">
+<div style="display: flex; flex-wrap: nowrap; align-items: flex-start; margin-top: 100px;">
 <div style="flex: 1 1 250px; min-width: 250px; max-width: 640px; margin-right: 0px; margin-left: 278px;">
     {% include gallery id="gallery_boardgame" layout="custom" thumb_height="355px" %}
   </div>
@@ -41,7 +41,7 @@ gallery_boardgame:
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: nowrap; align-items: flex-start;">
+<div style="display: flex; flex-wrap: nowrap; align-items: flex-start; margin-top: 100px;">
   <div style="flex: 1 1 250px; min-width: 250px;">
     <h2 class="source-code-pro" style="width:500px; margin-left:278px; margin-top: 20px;">3D Level</h2>
       <p style="width:900px; margin-left:278px;">This was a 3D level that included almost exclusively 3D models I made myself using Probuilder. This included multiple buildings, cars and other smaller objects all coming together to create a small city block.</p>
@@ -51,7 +51,7 @@ gallery_boardgame:
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: nowrap; align-items: flex-start;">
+<div style="display: flex; flex-wrap: nowrap; align-items: flex-start; margin-top: 100px;">
  <div style="flex: 1 1 250px; min-width: 250px; max-width: 926.34px; margin-left: 278px; margin-bottom:1px;">
     {% include video id="dQw4w9WgXcQ" provider="youtube" %}
   </div>
