@@ -15,7 +15,7 @@ permalink: /contact-info/
     %}
   </div>
   <div style="flex: 1 1 250px" class="source-code-pro">
-    <h1>For commissions, collaborations and work, please contact me.</h1>
+    <h1 class="source-code-pro">For commissions, collaborations and work, please contact me.</h1>
     <a>Email</a>
     <br>
     <a>Location</a>
