@@ -4,5 +4,6 @@
      {% if include.target %}target="{{ include.target }}"{% endif %}
      {% if include.target == "_blank" %}rel="noopener noreferrer"{% endif %}
      {% if include.download %}download="{{ include.download }}"{% endif %}
+{% if include.style %}style="{{ include.style }}" {% endif %}
   >{{ include.label | default: "Click me" }}</a>
 </div>
