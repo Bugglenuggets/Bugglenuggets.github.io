@@ -5,7 +5,7 @@ permalink: /contact-info/
 ---
 <div style="display: flex; flex-wrap: nowrap; gap: 2rem; align-items: flex-start;">
   <div style="flex: 1 1 250px">
-    {% include figure image_path="/assets/images/" alt="Photo of Ben McKee programming" style="width:100px height:100px" %}
+    {% include figure image_path="/assets/images/BedRoomPixelArt.png" alt="Photo of Ben McKee programming" style="width:100px height:100px" %}
     {% include button
     title="Download my CV"
     label="Download CV"
