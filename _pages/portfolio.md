@@ -7,19 +7,41 @@ gallery_boardgame:
     image_path: /assets/images/Boardgame_Setup.png
     alt: "Playtest Photo 1"
     title: "Divinity"
-    caption: "Divinity being playtested"
+    caption: "Divinity being setup during a playtest"
     
   - url: /assets/images/Boardgame_Playtest1.png
     image_path: /assets/images/Boardgame_Playtest1.png
     alt: "Playtest Photo 2"
     title: "Divinity"
-    caption: "Divinity being playtested"
+    caption: "Divinity being playtested during an opening."
     
   - url: /assets/images/Boardgame_Playtest2.png
     image_path: /assets/images/Boardgame_Playtest2.png
     alt: "Playtest Photo 1"
     title: "Divinity"
-    caption: "Divinity being playtested"
+    caption: "Divinity being playtested during the mid-game."
+
+gallery_sprites:
+  - url: /assets/images/Wizard.png
+    image_path: /assets/images/Wizard.png
+    title: "Wizard"
+    caption: "A sprite of the Wizard protagonist from my 2D game demo."
+
+  - url: /assets/images/Weapon_Wheel.png
+    image_path: /assets/images/Weapon_Wheel.png
+    title: "Weapon Wheel"
+    caption: "The UI for a weapon wheel I created from my 2D game demo."
+
+  - url: /assets/images/Feral_Syringe_Concept.png
+    image_path: /assets/images/Feral_Syringe_Concept.png
+    title: "Syringe Concept"
+    caption: "Concept art I made of a syringe that was used in the game "Feral"."
+
+  - url: /assets/images/Green_Goblin.png
+    image_path: /assets/images/Green_Goblin.png
+    title: "Green Goblin"
+    caption: "A sprite of one of the enemies from my 2D game demo."
+    
 ---
 <div style="display: flex; flex-wrap: nowrap; align-items: flex-start;">
   <div style="flex: 1 1 250px; min-width: 250px;">
@@ -33,7 +55,7 @@ gallery_boardgame:
 
 <div style="display: flex; flex-wrap: nowrap; align-items: flex-start; margin-top: 100px;">
 <div style="flex: 1 1 250px; min-width: 250px; max-width: 640px; margin-right: 0px; margin-left: 278px;">
-    {% include gallery id="gallery_boardgame" layout="custom" thumb_height="355px" %}
+    {% include gallery id="gallery_sprites" layout="custom" thumb_height="355px" %}
   </div>
   <div style="flex: 1 1 250px; min-width: 250px;">
     <h2 class="source-code-pro" style="width:500px; margin-left: 310px; margin-top: 20px;">Digital Art</h2>
